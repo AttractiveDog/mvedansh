@@ -128,7 +128,7 @@ export default class App extends React.Component {
             title: 'Social Media',
             image: [require('./media/img.png'), require('./media/img.png'), require('./media/img.png')],
             desc: 'It was a piece of cake for me but sometime it got stuck. But it work very effeciently.',
-            more: 'recesss.web.app',
+            more: 'https://socialcode.vercel.app/',
             link_title: this.project_icons['mail'].link_title,
             icon: this.project_icons['mail'].icon,
             tech: ['ReactJS', 'expressJS', 'javascript', 'nodeJS']
