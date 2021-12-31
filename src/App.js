@@ -101,7 +101,7 @@ export default class App extends React.Component {
             image: [require('./media/img.png')],
             gif: require('./media/img.png'),
             desc: 'This project first project with React Js and firebase. I was learning plain',
-            more: 'https://github.com/AttractiveDog/messaz3',
+            more: 'https://messaz-6a603.web.app',
             link_title: this.project_icons['github'].link_title,
             icon: this.project_icons['github'].icon,
             tech: ['ReactJS', 'Firebase']
@@ -110,7 +110,7 @@ export default class App extends React.Component {
             title: 'E-commercerce',
             image: [require('./media/img.png')],
             desc: 'This is the project was most complex project ever in my life till now. It is a fully useable website with payment integration using stipe',
-            more: 'https://github.com/AttractiveDog/codeshopr',
+            more: 'https://codeshopr.netlify.com',
             link_title: this.project_icons['github'].link_title,
             icon: this.project_icons['github'].icon,
             tech: ['ReactJS', 'Firebase', 'Stripe']
@@ -156,7 +156,7 @@ export default class App extends React.Component {
             title: 'FPS Shooter!',
             image: [require('./media/img.png')],
             desc: 'This is the project was not of my busniess but when I started it attracted me and I am loving it a lot',
-            more: 'https://blitz-war.ga',
+            more: 'https://youtu.be/bFb7hCHSPtE',
             link_title: this.project_icons['mail'].link_title,
             icon: this.project_icons['mail'].icon,
             tech: ['unity', 'C#']
@@ -176,7 +176,7 @@ export default class App extends React.Component {
             title: 'Face Detctor',
             image: [require('./media/img.png')],
             desc: ' It took a lot of time to ehnance and add more functionality to its predecessor. Made with Next.Js',
-            more: 'https://github.com/AttractiveDog/python-face-dectector',
+            more: 'https://youtu.be/L6Hg3dZBL80',
             link_title: this.project_icons['github'].link_title,
             icon: this.project_icons['github'].icon,
             tech: ['python', 'openCV']
@@ -186,12 +186,22 @@ export default class App extends React.Component {
             title: 'Air Canvas',
             image: [require('./media/img.png')],
             desc: 'This project was the best project with Python and Open CV I have ever made. I was learning Hard',
-            more: 'https://github.com/AttractiveDog/Air-Canvas',
+            more: 'https://youtu.be/6rsu7PR1eWg',
             link_title: this.project_icons['github'].link_title,
             icon: this.project_icons['github'].icon,
             tech: ['python', 'openCV', 'collections']
 
-        }
+        }, 
+        {
+            title: 'Ethereum Sending Web 3.0 Project',
+            image: [require('./media/img.png')],
+            desc: 'This is my first ever blockchain project for sending and receiving ethereum. It has lots of amazing stuff in the backend including Solidity language! ',
+            more: 'https://deployment-for-ethereum-project.vercel.app/',
+            link_title: this.project_icons['github'].link_title,
+            icon: this.project_icons['github'].icon,
+            tech: ['web 3.0', 'Solidity', 'reactjs','vitejs', 'Javascript']
+
+        } 
 
     ]
     
