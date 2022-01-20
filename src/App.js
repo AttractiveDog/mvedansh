@@ -206,7 +206,7 @@ export default class App extends React.Component {
             title: 'Emotion-Detection',
             image: [require('./media/img.png')],
             desc: 'Another masterpiece of python and open-cv. But it has a lots of dealing with Tensorflow',
-            more: 'https://github.com/AttractiveDog/emotion-detection
+            more: 'https://github.com/AttractiveDog/emotion-detection',
             link_title: this.project_icons['github'].link_title,
             icon: this.project_icons['github'].icon,
             tech: ['python', 'tensorflow', 'open-cv', 'harcasscade']
