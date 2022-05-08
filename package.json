@@ -15,6 +15,7 @@
     "react-scripts": "3.4.0",
     "scroll-to-element": "^2.0.3",
     "three": "^0.140.0",
+    "react-spline": "^1.2.1",
     "@splinetool/loader": "0.9.42",
     "yarn": "^1.22.4"
   },
