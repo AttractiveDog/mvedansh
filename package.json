@@ -15,7 +15,6 @@
     "react-awesome-slider": "^4.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "3.4.0",
-    "react-spline": "^1.2.1",
     "scroll-to-element": "^2.0.3",
     "three": "^0.140.0",
     "yarn": "^1.22.4"
