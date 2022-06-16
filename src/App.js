@@ -136,8 +136,8 @@ export default class App extends React.Component {
         {
             title: 'Twitter Clone',
             image: [require('./media/img.png')],
-            desc: 'I made this project just for fun by watching clever programmer live stream',
-            more: 'https://csb-pw2xk.netlify.app',
+            desc: 'This project was a time taking but the final result is ver good. People can actually use this for daily purpose.',
+            more: 'https://twitter-test1.vercel.app/',
             link_title: this.project_icons['mail'].link_title,
             icon: this.project_icons['mail'].icon,
             tech: ['ReactJS', 'expressJS', 'javascript', 'nodeJS']
