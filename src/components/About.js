@@ -8,7 +8,7 @@ const About = () => {
             <div className="about-container container to-slide up">
                 <div className="about-text">
                     <h3>About me</h3>
-                    <p className="about-info">I am from India. I can make any Javascript library's website. And my aim is to give outstanding look to your website. I'm still trying to make myself more better.</p>
+                    <p className="about-info">I am from India. I started programming for fun but it turned out to become my whole life. My key expertise is python and Javascript.</p>
                     
                 </div>
                 <div className="about-photo">
